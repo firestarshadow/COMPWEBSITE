@@ -2,14 +2,26 @@ p {
   border:3px groove darkgreen;
   background: darkolivegreen;
   color: azure;
+  text-align: center;
+  width: 500px;
+  margin: auto;
 }
 
 ul {
   border:3px solid darkgreen;
+  text-align: center;
+  width: 500px;
+  margin: auto;
 }
 
 a {
   	background-color: darkgrey;
   	color: ghostwhite;
   	border: 2px solid dimgrey
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
