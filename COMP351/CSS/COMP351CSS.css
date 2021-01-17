@@ -1,16 +1,33 @@
 header {
 	border: 5px dotted darkgreen;
+	text-align: center;
+	width: 500px;
+	margin: auto;
 }
 p {
 	background: darkolivegreen;
 	border: 5px solid darkgreen;
 	color: ghostwhite;
+	text-align: center;
+	width: 500px;
+	margin: auto;
 }
 ul {
 	border: 2px dotted darkgrey;
+	text-align: center;
+	width: 500px;
+	margin: auto;
 }
 a {
   	background-color: darkgrey;
   	color: ghostwhite;
-  	border: 2px solid dimgrey
+  	border: 2px black
+}
+
+#button {
+	margin-left: auto;
+	margin-right: auto;
+	background: grey;
+	border: 10px dimgrey;
+	width: 50px;
 }

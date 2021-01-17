@@ -25,3 +25,9 @@ img {
 	margin-left: auto;
 	margin-right: auto;
 }
+#button {
+  
+  background: grey;
+  border: 10px dimgrey;
+  width: 50px;
+}

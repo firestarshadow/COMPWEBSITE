@@ -1,10 +1,21 @@
 header {
 	border:5px dotted aliceblue;
+	text-align: center;
+	width: 500px;
+	margin: auto;
 }
 p {
-	border:5px solid darkslategrey;
+	border:2px solid darkslategrey;
 	background: dimgrey;
 	color: ghostwhite;
+	text-align: center;
+	width: 500px;
+	margin: auto;
+}
+a {
+  	background-color: darkgrey;
+  	color: ghostwhite;
+  	border: 2px solid dimgrey
 }
 #lightgrey {
 	color: lightgrey
@@ -18,9 +29,13 @@ p {
 #purple {
 	color: darkorchid;
 }
-
-a {
-  	background-color: darkgrey;
-  	color: ghostwhite;
-  	border: 2px solid dimgrey
+#button {
+	
+	background: grey;
+	border: 10px dimgrey;
+	width: 175px;
 }
+#question {
+	text-align: left;
+}
+
