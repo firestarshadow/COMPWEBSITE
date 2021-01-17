@@ -1,0 +1,26 @@
+header {
+	border:5px dotted aliceblue;
+}
+p {
+	border:5px solid darkslategrey;
+	background: dimgrey;
+	color: ghostwhite;
+}
+#lightgrey {
+	color: lightgrey
+}
+#red {
+	color: crimson;
+}
+#blue {
+	color: deepskyblue;
+}
+#purple {
+	color: darkorchid;
+}
+
+a {
+  	background-color: darkgrey;
+  	color: ghostwhite;
+  	border: 2px solid dimgrey
+}

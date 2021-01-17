@@ -1,0 +1,15 @@
+p {
+  border:3px groove darkgreen;
+  background: darkolivegreen;
+  color: azure;
+}
+
+ul {
+  border:3px solid darkgreen;
+}
+
+a {
+  	background-color: darkgrey;
+  	color: ghostwhite;
+  	border: 2px solid dimgrey
+}

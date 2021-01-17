@@ -1,0 +1,16 @@
+header {
+	border: 5px dotted darkgreen;
+}
+p {
+	background: darkolivegreen;
+	border: 5px solid darkgreen;
+	color: ghostwhite;
+}
+ul {
+	border: 2px dotted darkgrey;
+}
+a {
+  	background-color: darkgrey;
+  	color: ghostwhite;
+  	border: 2px solid dimgrey
+}
